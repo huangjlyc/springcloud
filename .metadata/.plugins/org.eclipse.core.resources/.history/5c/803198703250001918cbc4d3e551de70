@@ -1,0 +1,5 @@
+package com.huangjl.learn.consumer;
+
+public class HelloRemoteHystrix {
+
+}

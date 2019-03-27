@@ -1,0 +1,7 @@
+package com.huangjl.learn.consumer;
+
+@FeignClient(name= "spring-cloud-producer")
+public interface HelloRemote {
+    @RequestMapping(value = "/hello")
+    public String hello(@RequestParam(value = "name") String name);
+}

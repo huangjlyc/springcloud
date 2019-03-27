@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.huangjl.learn.eurekaserver;
+
+/**
+ * @author Administrator
+ *
+ */
+public class SpringCloudEurekaApplication {
+
+}

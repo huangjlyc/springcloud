@@ -1,0 +1,10 @@
+package com.huangjl.learn.producer;
+
+@SpringBootApplication
+@EnableDiscoveryClient
+public class ProducerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProducerApplication.class, args);
+	}
+}

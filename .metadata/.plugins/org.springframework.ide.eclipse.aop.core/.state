@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="eurekaserver"/>
+<aop-project name="consumer"/>
+<aop-project name="producer"/>
+</aop-reference-model>
